@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2020-03-20
+img: feynman.png
+alt: image-alt
+project-date: March 2020
+client: Feynman Technique
+category: Education
+description: The Feynman Technique, all packed into a website! People during this pandemic can connect with one another through the Feynman Technique by learning through teaching someone else. This application matches students together in an effort to make learning more enjoyable and socializing more productive.
+---
