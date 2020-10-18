@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2020-08-15
+img: lstm.png
+alt: image-alt
+project-date: August 15
+link: https://github.com/ceelo777/RoboticMusicianship
+client: LSTM Music Generator
+category: Machine Learning
+description: WORK IN PROGRESS - A Long Short-Term memory model for generating music based on famous compositions by composers including Beethoven, Mozart, etc. 
+---

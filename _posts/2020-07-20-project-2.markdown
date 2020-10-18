@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2020-07-20
+img: checkin.png
+alt: image-alt
+project-date: July 2020
+client: Check-In
+link: https://github.com/HackGT/virtual-checkin
+category: Check-In / HackGT
+description: Developed the check-in system for participants at HackGT to be placed into their respective workshops. This was built using the BlueJeans API for the events and calling functionalities, TypeScript and GraphQL to query user data, and HTML+CSS+JavaScript for developing the UI which was built with Figma.
+---

@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+date: 2020-04-10
+img: corona.png
+alt: image-alt
+project-date: April 2020
+client: Coronavirus News Feed
+link: https://github.com/2019aliu/HooHacks2020
+category: Web Development
+description: Created a website with news pertaining to the coronavirus for HooHacks 2020. Used Flask as a backend and HTML/CSS for the front-end.
+---

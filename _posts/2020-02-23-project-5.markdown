@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+date: 2020-02-23
+img: unemploy.png
+alt: image-alt
+project-date: February 2020
+client: CreatingTheNext
+link: https://github.com/2019aliu/CreatingTheNext
+category: Data Science
+description: Created a visualization of unemployment using Plotly and Python. Won the Georgia Tech Hacklytics 2020 Best Visualization Award for our creative use of these technologies in creating an interactive plot.
+---

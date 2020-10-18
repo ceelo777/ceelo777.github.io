@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2020-09-10
+img: poker.png
+alt: image-alt
+project-date: September 10
+client: Poker AI Bot
+link: https://github.com/ceelo777/PokerAI
+category: Reinforcement Learning
+description: WORK IN PROGRESS - An AI bot that uses counterfactual regret in order to maximize the chance of winning Texas Hold'em EVERY. SINGLE. TIME. 
+---
