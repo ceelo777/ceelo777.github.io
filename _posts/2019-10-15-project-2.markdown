@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2019-10-15
+img: stocks.png
+alt: image-alt
+project-date: October 2019
+client: Stockcastic
+link: https://github.com/2019aliu/Stockcastic
+category: Stocks / AI
+description: Developed a website that uses tweets to dictate the sentiment value behind stocks. Built with React for front-end and Python for back-end.
+---

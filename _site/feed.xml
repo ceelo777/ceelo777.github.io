@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-10-18T13:02:05-04:00</updated>
+  <updated>2020-10-18T13:27:00-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,11 +20,11 @@
   
   
     <entry>
-      <title type="html">Project</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project" />
+      <title type="html">Project 6</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 6" />
       <published>2020-09-10T00:00:00-04:00</published>
       <updated>2020-09-10T00:00:00-04:00</updated>
-      <id>http://localhost:4000/project</id>
+      <id>http://localhost:4000/project-6</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -54,11 +54,11 @@
     </entry>
   
     <entry>
-      <title type="html">Project 4</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 4" />
+      <title type="html">Project 3</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 3" />
       <published>2020-08-15T00:00:00-04:00</published>
       <updated>2020-08-15T00:00:00-04:00</updated>
-      <id>http://localhost:4000/project-4</id>
+      <id>http://localhost:4000/project-3</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -88,45 +88,11 @@
     </entry>
   
     <entry>
-      <title type="html">Project 2</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 2" />
-      <published>2020-07-20T00:00:00-04:00</published>
-      <updated>2020-07-20T00:00:00-04:00</updated>
-      <id>http://localhost:4000/project-2</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Check-In / HackGT" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Project 6</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 6" />
+      <title type="html">Project 1</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 1" />
       <published>2020-04-10T00:00:00-04:00</published>
       <updated>2020-04-10T00:00:00-04:00</updated>
-      <id>http://localhost:4000/project-6</id>
+      <id>http://localhost:4000/project-1</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -156,11 +122,11 @@
     </entry>
   
     <entry>
-      <title type="html">Project 1</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 1" />
+      <title type="html">Project 4</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 4" />
       <published>2020-03-20T00:00:00-04:00</published>
       <updated>2020-03-20T00:00:00-04:00</updated>
-      <id>http://localhost:4000/project-1</id>
+      <id>http://localhost:4000/project-4</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -211,6 +177,40 @@
 
       
         <category term="Data Science" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 2</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 2" />
+      <published>2019-10-15T00:00:00-04:00</published>
+      <updated>2019-10-15T00:00:00-04:00</updated>
+      <id>http://localhost:4000/project-2</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Stocks / AI" />
       
 
       
